@@ -112,6 +112,6 @@ app.post('/post', async(req,res) => {
 
 app.listen(3000,() => {
 
-    console.log('server is up')
+    console.log('server is up on port 3000')
 
 })
